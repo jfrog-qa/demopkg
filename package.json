@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/shayke/demopkg.git"
   },
+  "dependencies": {
+    "dojo": "https://github.com/csnover/dojo2-core/archive/3e4152d20e.tar.gz"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
