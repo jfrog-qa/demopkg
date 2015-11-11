@@ -1,0 +1,21 @@
+{
+  "name": "shayypkg",
+  "authors": [
+    "Shay Yaakov <shayy@jfrog.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "ui-tinymce": "https://github.com/angular-ui/ui-tinymce/archive/v0.0.4.tar.gz"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
