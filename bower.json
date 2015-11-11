@@ -1,5 +1,6 @@
 {
-  "name": "shayypkg",
+  "name": "demopkg",
+  "version": "1.0.0",
   "authors": [
     "Shay Yaakov <shayy@jfrog.com>"
   ],
