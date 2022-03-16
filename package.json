@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shayke/demopkg.git"
+    "url": "git+https://github.com/jfrog-qa/demopkg.git"
   },
   "dependencies": {
     "dojo": "https://github.com/csnover/dojo2-core/archive/3e4152d20e.tar.gz"
@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shayke/demopkg/issues"
+    "url": "https://github.com/jfrog-qa/demopkg/issues"
   },
-  "homepage": "https://github.com/shayke/demopkg#readme"
+  "homepage": "https://github.com/jfrog-qa/demopkg#readme"
 }
