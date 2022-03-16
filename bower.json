@@ -10,7 +10,7 @@
   "license": "MIT",
   "homepage": "",
   "dependencies": {
-    "angular-ui-tinymce": "https://github.com/angular-ui/ui-tinymce/archive/v0.0.4.tar.gz"
+    "angular-ui-tinymce": "https://github.com/jfrog-qa/ui-tinymce/archive/v0.0.4.tar.gz"
   },
   "ignore": [
     "**/.*",
